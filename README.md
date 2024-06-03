@@ -4,7 +4,7 @@ This project offers a comprehensive analysis of Walmart Superstore's sales and p
 
 ---
 
-<p align="center"><a href="https://docs.google.com/spreadsheets/d/10zXwekQCxKpWsvexNTGCmX3H8RBdal5U/edit#gid=89267768"><img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkgreen" alt="Excel Dashboard"></a></p>
+<p align="center"><a href="https://docs.google.com/spreadsheets/d/1ZrJzZnK2h1MNEGNty-Prn4XloiJoBYWY/edit#gid=1643880657"><img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkgreen" alt="Excel Dashboard"></a></p>
 
 
   ---
@@ -46,8 +46,8 @@ This project offers a comprehensive analysis of Walmart Superstore's sales and p
 ---
 
 # Visuals:
-![analyzer](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/224f0a2e-0d64-4dc1-83ac-d37d71a9f008)![countries](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/a17de7c2-3180-4c10-a66e-4f9c3ee1b860)
-
+![Screenshot 2024-06-02 224352](https://github.com/virajbhutada/Walmart-Ecommerce-Retail-Analysis/assets/143819712/5338e07c-21f0-429e-8d98-25757939c030)
+![Screenshot 2024-06-02 224409](https://github.com/virajbhutada/Walmart-Ecommerce-Retail-Analysis/assets/143819712/4628c99f-795d-417b-ad17-23d0510183d5)
 
 Explore the complete dashboard by following the usage instructions provided above.
 
